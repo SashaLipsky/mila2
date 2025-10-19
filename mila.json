@@ -2855,9 +2855,9 @@
     "nagoroda_8": null,
     "nagoroda_9": null,
     "nagoroda_10": null,
-    "nagoroda_11": null,
-    "nagoroda_12": null,
-    "id": "52a9b8ba-532c-40b8-9c36-95e4e929476f"
+            "nagoroda_11": null,
+            "nagoroda_12": null,
+            "id": "52a9b8ba-532c-40b8-9c36-95e4e929476f"
   },
   {
     "status": "Виконання СБЗ",
@@ -6326,4 +6326,6 @@
     "posada": "штаб-сержант третьої категорії секції S-3 (оперативного планування) штабу 1-го батальйону оперативного призначення",
     "struk": "І БОП",
     "nagoroda_1": null,
-    "
+  }
+]
+
